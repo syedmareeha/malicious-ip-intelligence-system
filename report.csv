@@ -1,0 +1,6 @@
+IP Address,Category,Reason,Malicious Count,Suspicious Count,Harmless Count
+8.8.8.8,Safe,No engines flagged,0,0,59
+172.217.160.142,Safe,No engines flagged,0,0,59
+185.220.101.1,Malicious,14 engines flagged,14,3,48
+192.168.1.10,Safe,No engines flagged,0,0,60
+45.33.32.156,Malicious,4 engines flagged,4,1,57
